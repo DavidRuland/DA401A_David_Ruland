@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="ButtonFragment">ButtonFragment</string>
+    <string name="QouteFragment">QouteFragment</string>
+    <string name="GET_QUOTE">GET QUOTE</string>
+    <string name="QuoteOfTheDay">Quote of the day</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

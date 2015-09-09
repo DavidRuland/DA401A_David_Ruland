@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DA401A_David_Ruland</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="ButtonFragment">ButtonFragment</string>
+    <string name="QouteFragment">QouteFragment</string>
+   <string name="GET_QUOTE">GET QUOTE</string>
+    <string name="QuoteOfTheDay">Quote of the day</string>
+
+    <string-array name="Quotes">
+        <item name="q1">A bird in the hand is better than a nail in the foot1</item>
+        <item name="q2">A bird in the hand is better than a nail in the foot2</item>
+    <item name="q3">A bird in the hand is better than a nail in the foot3</item>
+ Quotes  </string-array>
+</resources>
